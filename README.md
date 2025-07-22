@@ -56,7 +56,6 @@
 
 - 📧 Email: [chandinipriya643@gmail.com](mailto:chandinipriya643@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/pasagada-chandini-priya-a05866269](https://linkedin.com/in/pasagada-chandini-priya-a05866269)  
-- 🌍 Portfolio: *(add it here if you have one)*
 
 ---
 
