@@ -8,7 +8,6 @@
 - 🎓 Final year Computer Science Engineering student at **Gayatri Vidya Parishad College of Engineering**  
 - 🌐 Passionate about building **AI-powered full stack applications**  
 - ☁️ Certified in **Microsoft Azure, Cloud Computing, and Full Stack Development**  
-- 🧠 Currently learning **DevOps** and expanding into **AI/ML-powered platforms**  
 - 💬 Ask me about **Java, MERN stack, Azure, Supabase, or building AI tools with Gemini API**  
 
 ---
